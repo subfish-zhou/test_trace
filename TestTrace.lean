@@ -1,3 +1,5 @@
--- This module serves as the root of the `TestTrace` library.
--- Import modules here that should be built as part of the library.
-import «TestTrace».Basic
+theorem t1 : 0 = 0 := by rfl
+
+theorem t2 : 1 = 1 := by rfl
+
+theorem t3 : 2 = 2 := by rfl
